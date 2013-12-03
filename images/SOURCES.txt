@@ -1,0 +1,14 @@
+http://upload.wikimedia.org/wikipedia/commons/b/b5/Cloud_computing.svg
+   - Accessed Dec 1, 2012
+   - Copyright (C) 2009 - Sam Johnston
+   - http://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+http://upload.wikimedia.org/wikipedia/commons/f/fc/Soa-layers.svg
+   - Accessed Dec 1, 2012
+   - Copyright (C) 2009 - User:Feravoon
+   - http://en.wikipedia.org/wiki/Public_domain
+
+http://upload.wikimedia.org/wikipedia/commons/5/5c/The_Zachman_Framework_of_Enterprise_Architecture.jpg
+   - Accessed Dec 1, 2012
+   - Copyright (C) 2012 - User:Ideaseintegration + User:SunSw0rd
+   - http://creativecommons.org/licenses/by-sa/3.0/deed.en
